@@ -1,0 +1,1 @@
+Các file video sau xử lý sẽ được đặt ở folder ./output
